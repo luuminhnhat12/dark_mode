@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">learn_dark_mode_kotlin</string>
+    <string name="content">This application is used to learn how to change theme in app </string>
 </resources>
